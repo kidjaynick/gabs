@@ -13,4 +13,4 @@ print(a.count("a"))
 
 p = "a**n + b**n = c**n"
 
-print("n =")
+print(input("n ="))
